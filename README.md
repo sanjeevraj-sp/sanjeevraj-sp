@@ -5,9 +5,9 @@
 
 #### 🎓 Computer Technology - UG
 
-##### 😎 [Explore my portfolio.... ](https://sanjeev-portfolio-two.vercel.app/)
+#### 😎 [Explore my portfolio.... ](https://sanjeev-portfolio-two.vercel.app/)
 
-##### 🌐 [Connect with me on LinkedIn.... ](https://www.linkedin.com/in/sanjeevraj-s-p-b7796b213/) 
+#### 🌐 [Connect with me on LinkedIn.... ](https://www.linkedin.com/in/sanjeevraj-s-p-b7796b213/) 
 
 #### 🐱‍🏍🐱‍🏍 Recent HandsOn 
 1. **Inventory Billing App**
@@ -24,10 +24,10 @@
 Check out my profiles on online judges:
 
 1. **LeetCode**
-   - Profile: [LeetCode Profile](https://leetcode.com/yourusername/)
+   - Profile: [LeetCode Profile](https://leetcode.com/Sanjeev1412/)
 
 2. **GeeksForGeeks**
-   - Profile: [Codeforces Profile](https://codeforces.com/profile/yourusername)
+   - Profile: [GeeksForGeeks Profile](https://www.geeksforgeeks.org/user/sanjeevraj9kpb/)
 
 
 
