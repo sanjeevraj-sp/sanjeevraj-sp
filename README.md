@@ -1,34 +1,51 @@
-# Hi there, I'm Sanjeev 👋
+# Hi there, I'm Sanjeev! 👋
 
-## 🚀 About Me
+## About Me
+🚀 Passionate Full Stack Developer with expertise in JavaScript, React.js, Node.js, and SQL. Dedicated to creating efficient, user-centric web applications.
 
-💻 Full Stack Web Developer with a strong foundation in:
+Connect with me:
+- 🌐 [LinkedIn](https://linkedin.com/yourusername)
+- 🌐 [Portfolio](https://yourportfolio.com)
 
-- Java
-- JavaScript
-- HTML & CSS
-- React.js, Node.js & Express
-- MongoDB & MySQL
+## Portfolio
+Explore some of my projects below:
 
-🌟 Dedicated to creating responsive, visually engaging web applications and optimizing web performance.
+1. **Project Name 1**
+   - **Live URL:** [Project Live URL](https://example.com)
+   - **Repository:** [Project Repository](https://github.com/yourusername/project-repo1)
 
-🚀 Continuously learning new technologies to enhance my development skills.
+2. **Project Name 2**
+   - **Live URL:** [Project Live URL](https://example.com)
+   - **Repository:** [Project Repository](https://github.com/yourusername/project-repo2)
 
-## 📈 My Coding Profiles
+## Skills
+- JavaScript (React.js, Node.js)
+- HTML/CSS
+- SQL
+- Git
 
-### LeetCode
-[![LeetCode Profile](https://leetcode-stats-api.herokuapp.com/Sanjeev1420.png)](https://leetcode.com/Sanjeev1420/)
+## Online Judges
+Check out my profiles on online judges:
 
-### GeeksforGeeks
-[![GeeksforGeeks Profile](https://example.com/gfg-stats.png)](https://auth.geeksforgeeks.org/user/Sanjeev1420/profile)
+1. **LeetCode**
+   - Profile: [LeetCode Profile](https://leetcode.com/yourusername/)
 
-## 📫 Contact Me
+2. **Codeforces**
+   - Profile: [Codeforces Profile](https://codeforces.com/profile/yourusername)
 
-- [LinkedIn](https://www.linkedin.com/in/Sanjeev1420)
-- [Twitter](https://twitter.com/Sanjeev1420)
-- [Email](mailto:sanjeev@example.com)
+## Major Projects
+Explore some of my major projects:
 
-<!---
-sanjeevraj-sp/sanjeevraj-sp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. **E-Commerce Website**
+   - A responsive web store built with React.js and Node.js.
+   - **Live URL:** [Project Live URL](https://example.com)
+   - **Repository:** [Project Repository](https://github.com/yourusername/e-commerce-repo)
+
+2. **Blog App**
+   - A blogging platform with authentication and CRUD operations.
+   - **Live URL:** [Project Live URL](https://example.com)
+   - **Repository:** [Project Repository](https://github.com/yourusername/blog-app-repo)
+
+---
+
+Feel free to reach out to me via LinkedIn or explore my portfolio for more details!
