@@ -1,9 +1,9 @@
 # Hi there, I'm Sanjeev! 👋
 
 ## About Me
-#### 🚀 Enthusiastic Full Stack Developer committed to crafting efficient, user-centric web applications with a focus on JavaScript, React.js and  Node.js technologies.
+### 🚀 Enthusiastic Full Stack Developer committed to crafting efficient, user-centric web applications with a focus on JavaScript, React.js and  Node.js technologies.
 
-##### 🎓 Computer Technology - UG
+#### 🎓 Computer Technology - UG
 
 ##### 😎 [Explore my portfolio.... ](https://sanjeev-portfolio-two.vercel.app/)
 
