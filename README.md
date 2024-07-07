@@ -9,7 +9,7 @@
 
 #### 🌐 [Connect with me on LinkedIn.... ](https://www.linkedin.com/in/sanjeevraj-s-p-b7796b213/) 
 
-#### 🐱‍🏍🐱‍🏍 Recent HandsOn 
+## 🐱‍🏍🐱‍🏍 Recent HandsOn 
 1. **Inventory Billing App**
    - **Live URL:** [Project Live URL](https://inventory-billing-app-frontend-ecru.vercel.app/)
    - **Repository:** [Project Repository](https://github.com/Sanjeev1420/inventoryBillingApp)
@@ -20,7 +20,7 @@
 
 
 
-## Online Judges
+## 👩‍💻 Online Judges
 Check out my profiles on online judges:
 
 1. **LeetCode**
